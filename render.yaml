@@ -1,3 +1,0 @@
-git add .
-git commit -m "Fix: use python 3.11 and ptb 20.8"
-git push
